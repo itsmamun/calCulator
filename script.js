@@ -9,7 +9,7 @@ function press(num){
 
 function equal(){
     upperDisplay.style.display = "block";
-    upperDisplay.style.marginBottom = "0px";
+    upperDisplay.style.marginBottom = "1.5px";
     upperDisplay.value = eval(exp);
     lowerDisplay.style.fontSize = "12px";
     // lowerDisplay.style.background = "none";
